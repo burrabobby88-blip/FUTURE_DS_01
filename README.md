@@ -1,8 +1,11 @@
-# Data Science & Analytics Internship
+## Task 1: Business Sales Performance Analytics
 
-This repository contains all assigned tasks, data analysis work, and final project completed during my Data Science & Analytics Internship.
+This dashboard was created using Power BI to analyze business sales performance.
 
-Internship Duration: 28 Feb 2026 – 28 Mar 2026
-Tools Used: Python, Pandas, Excel, Data Visualization
+Key Analysis:
+- Revenue trends
+- Category & regional performance
+- Top selling products
+- Monthly sales growth
 
-All work has been completed as part of structured hands-on learning and real-world project implementation.
+Tool Used: Power BI
